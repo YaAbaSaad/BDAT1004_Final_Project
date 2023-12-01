@@ -1,13 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
-
-
-pip install dash dash-renderer dash-html-components dash-core-components plotly
-
-
-# In[55]:
+# In[56]:
 
 
 import dash
@@ -130,22 +124,4 @@ def update_graphs(selected_date):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
