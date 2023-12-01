@@ -4,4 +4,4 @@ gunicorn
 dash-html-components
 dash-core-components
 plotly
-pymongo==3.12.0
+pymongo[srv]==3.12.0
